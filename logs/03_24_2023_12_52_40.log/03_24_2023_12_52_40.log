@@ -1,0 +1,9 @@
+[ 2023-03-24 12:52:40,905 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 12:52:40,925 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 12:52:40,985 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 12:52:55,451 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-39.pyc', reloading
+[ 2023-03-24 12:52:55,467 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 12:52:55,542 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 12:52:55,600 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 12:52:55,652 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\flask\\_compat.py', reloading
+[ 2023-03-24 12:52:55,660 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 12:52:55] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -

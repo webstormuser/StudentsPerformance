@@ -1,0 +1,9 @@
+[ 2023-03-24 14:12:42,662 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 14:12:42,722 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 14:12:42,909 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 14:12:43,661 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 14:12:43] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 14:12:55,252 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 14:12:55,346 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 14:12:55,405 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 14:12:55,418 ] 24 root - INFO - Model is trying to predict for given input data
+[ 2023-03-24 14:12:55,419 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 14:12:55] "[37mPOST /prediction HTTP/1.1[0m" 200 -

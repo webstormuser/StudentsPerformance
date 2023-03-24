@@ -1,0 +1,5 @@
+[ 2023-03-24 11:21:57,791 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 11:21:57,812 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 11:21:57,891 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 11:22:03,644 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\setup.py', reloading
+[ 2023-03-24 11:22:03,645 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\setup.py', reloading

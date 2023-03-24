@@ -1,0 +1,13 @@
+[ 2023-03-24 10:23:55,166 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:23:55,187 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:23:55,250 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:24:03,442 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:24:03] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:24:03,575 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 10:24:03,615 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\link.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,617 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\glm_distribution.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,620 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\utils\\__pycache__\\optimize.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,623 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_linear_loss.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,624 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_huber.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,634 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_stochastic_gradient.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,637 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_ridge.cpython-39.pyc', reloading
+[ 2023-03-24 10:24:03,638 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_sag.cpython-39.pyc', reloading

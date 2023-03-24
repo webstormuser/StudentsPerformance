@@ -1,0 +1,4 @@
+[ 2023-03-24 10:15:51,195 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:15:51,214 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:15:51,280 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:18:45,357 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\typing.py', reloading

@@ -1,0 +1,12 @@
+[ 2023-03-24 12:53:00,271 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 12:53:00,340 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 12:53:00,545 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 12:53:01,795 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 12:53:01] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 12:53:35,574 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,576 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\codecs.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,578 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\aliases.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,579 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\utf_8.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,580 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\cp1252.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,582 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\latin_1.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,583 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\io.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:35,584 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\abc.cpython-39.pyc', reloading

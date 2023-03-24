@@ -1,0 +1,11 @@
+[ 2023-03-24 10:30:18,768 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:30:18,787 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:30:18,846 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:30:24,625 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,627 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,629 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,630 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,632 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,634 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,635 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:30:24,635 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading

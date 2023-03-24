@@ -1,0 +1,6 @@
+[ 2023-03-24 12:53:39,451 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 12:53:39,470 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 12:53:39,536 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 12:53:51,903 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\struct.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:51,910 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\signal.cpython-39.pyc', reloading
+[ 2023-03-24 12:53:52,050 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\ctypes\\__pycache__\\__init__.cpython-39.pyc', reloading

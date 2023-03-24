@@ -1,0 +1,9 @@
+[ 2023-03-24 13:06:50,118 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 13:06:50,170 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 13:06:50,281 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 13:06:51,962 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\dill\\__init__.py', reloading
+[ 2023-03-24 13:06:51,967 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\dill\\_dill.py', reloading
+[ 2023-03-24 13:06:51,983 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\pickle.py', reloading
+[ 2023-03-24 13:06:52,017 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\os.py', reloading
+[ 2023-03-24 13:06:52,051 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\io.py', reloading
+[ 2023-03-24 13:06:52,085 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\abc.py', reloading

@@ -1,0 +1,9 @@
+[ 2023-03-24 10:11:06,191 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:11:06,210 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:11:06,269 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:11:37,666 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-39.pyc', reloading
+[ 2023-03-24 10:11:37,700 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\jinja2\\__pycache__\\debug.cpython-39.pyc', reloading
+[ 2023-03-24 10:11:37,738 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\jinja2\\environment.py', reloading
+[ 2023-03-24 10:11:37,746 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\jinja2\\_compat.py', reloading
+[ 2023-03-24 10:11:37,766 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:11:37] "[35m[1mGET /prediction HTTP/1.1[0m" 500 -
+[ 2023-03-24 10:11:37,767 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\werkzeug\\routing.py', reloading

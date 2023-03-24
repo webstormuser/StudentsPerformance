@@ -1,0 +1,17 @@
+[ 2023-03-24 10:54:26,913 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:54:26,966 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:54:27,134 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:54:36,003 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\copy.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,026 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\inspect.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,028 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\ast.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,032 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\dis.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,034 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\opcode.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,312 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\base64.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,339 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\glob.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,361 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\socket.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,370 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\selectors.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,386 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\queue.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,395 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\pickle.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,397 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\_compat_pickle.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,415 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\numbers.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:36,506 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\configparser.cpython-39.pyc', reloading

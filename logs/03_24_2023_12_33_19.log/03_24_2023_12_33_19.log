@@ -1,0 +1,18 @@
+[ 2023-03-24 12:33:20,664 ] 157 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-03-24 12:33:27,349 ] 25 root - INFO - Entered the data ingestion method or component
+[ 2023-03-24 12:33:27,356 ] 28 root - INFO - Read the dataset as dataframe
+[ 2023-03-24 12:33:27,366 ] 34 root - INFO - Train test split initiated
+[ 2023-03-24 12:33:27,379 ] 41 root - INFO - Inmgestion of the data iss completed
+[ 2023-03-24 12:33:27,390 ] 82 root - INFO - Read train and test data completed
+[ 2023-03-24 12:33:27,390 ] 84 root - INFO - Obtaining preprocessing object
+[ 2023-03-24 12:33:27,390 ] 58 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2023-03-24 12:33:27,391 ] 59 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2023-03-24 12:33:27,395 ] 97 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2023-03-24 12:33:27,429 ] 109 root - INFO - Saved preprocessing object.
+[ 2023-03-24 12:33:27,438 ] 33 root - INFO - Split training and test input data
+[ 2023-03-24 12:36:30,917 ] 110 root - INFO - Best found model on both training and testing dataset
+[ 2023-03-24 12:36:30,917 ] 112 root - INFO - best model is RidgeRegression
+[ 2023-03-24 12:36:30,917 ] 113 root - INFO - best models score is 0.8805671790733922
+[ 2023-03-24 12:36:30,968 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 12:36:30,969 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 12:36:30,970 ] 21 root - INFO - Fearure scaling is done

@@ -1,0 +1,10 @@
+[ 2023-03-24 10:53:37,613 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:53:37,670 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:53:37,824 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:53:48,081 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\shutil.cpython-39.pyc', reloading
+[ 2023-03-24 10:53:48,084 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\fnmatch.cpython-39.pyc', reloading
+[ 2023-03-24 10:53:48,088 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\posixpath.cpython-39.pyc', reloading
+[ 2023-03-24 10:53:48,091 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\bz2.cpython-39.pyc', reloading
+[ 2023-03-24 10:53:48,095 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\_compression.cpython-39.pyc', reloading
+[ 2023-03-24 10:53:48,107 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\lzma.cpython-39.pyc', reloading
+[ 2023-03-24 10:53:48,131 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\datetime.cpython-39.pyc', reloading

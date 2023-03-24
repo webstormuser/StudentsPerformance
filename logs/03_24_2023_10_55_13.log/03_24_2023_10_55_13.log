@@ -1,0 +1,7 @@
+[ 2023-03-24 10:55:13,807 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:55:13,863 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:55:14,049 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:55:40,095 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\pandas\\__init__.py', reloading
+[ 2023-03-24 10:55:40,109 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\pandas\\io\\api.py', reloading
+[ 2023-03-24 10:55:40,133 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\pandas\\io\\parsers\\__init__.py', reloading
+[ 2023-03-24 10:55:40,162 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py', reloading

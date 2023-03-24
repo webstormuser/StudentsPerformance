@@ -1,0 +1,26 @@
+[ 2023-03-24 10:43:23,936 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:43:24,423 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:43:25,419 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:44:58,103 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:44:58] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:44:58,317 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:44:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-03-24 10:45:14,864 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 10:45:14,944 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 10:45:15,002 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 10:45:15,069 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:45:15] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+[ 2023-03-24 10:45:17,196 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:45:17] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:45:17,198 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:45:17] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:45:17,198 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:45:17] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:45:17,321 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:45:17] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:45:41,777 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,780 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,781 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,783 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,785 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,787 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,787 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,789 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,987 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,988 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,989 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,990 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:45:41,990 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading

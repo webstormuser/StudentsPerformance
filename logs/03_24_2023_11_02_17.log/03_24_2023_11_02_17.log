@@ -1,0 +1,17 @@
+[ 2023-03-24 11:02:18,112 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 11:02:18,150 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 11:02:18,250 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 11:02:22,310 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:02:22] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 11:03:23,789 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 11:03:23,867 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 11:03:23,975 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 11:03:24,054 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:03:24] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+[ 2023-03-24 11:03:26,352 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:03:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[ 2023-03-24 11:03:26,353 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:03:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 11:03:26,355 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:03:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 11:03:26,472 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:03:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[ 2023-03-24 11:06:16,281 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 11:06:16] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 11:06:36,362 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\exception.py', reloading
+[ 2023-03-24 11:06:36,364 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\exception.py', reloading
+[ 2023-03-24 11:06:36,366 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\logger.py', reloading
+[ 2023-03-24 11:06:36,367 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\logger.py', reloading

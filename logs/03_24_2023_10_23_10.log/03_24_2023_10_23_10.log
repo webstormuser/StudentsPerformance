@@ -1,0 +1,13 @@
+[ 2023-03-24 10:23:11,105 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:23:11,124 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:23:11,182 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:23:52,328 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\string.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,329 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 10:23:52,338 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,343 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_base.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,348 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_bayes.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,350 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_least_angle.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,358 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_coordinate_descent.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,363 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,366 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\__pycache__\\glm.cpython-39.pyc', reloading
+[ 2023-03-24 10:23:52,368 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\__init__.cpython-39.pyc', reloading

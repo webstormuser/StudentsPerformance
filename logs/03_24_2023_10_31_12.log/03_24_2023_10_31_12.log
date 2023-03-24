@@ -1,0 +1,17 @@
+[ 2023-03-24 10:31:13,027 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:31:13,045 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:31:13,103 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:31:21,606 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:31:21] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:31:38,123 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:31:38] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+[ 2023-03-24 10:31:39,973 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:31:39] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:31:39,973 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:31:39] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:31:39,974 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:31:39] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:31:40,070 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:31:40] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:32:21,608 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,611 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,612 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,615 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,616 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,618 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,619 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-24 10:32:21,620 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance\\src\\pipeline\\predict_pipeline.py', reloading

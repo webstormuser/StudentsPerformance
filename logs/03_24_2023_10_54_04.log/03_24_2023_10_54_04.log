@@ -1,0 +1,10 @@
+[ 2023-03-24 10:54:04,239 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:54:04,264 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:54:04,350 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:54:20,245 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\urllib\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:20,247 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\urllib\\__pycache__\\parse.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:20,743 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\chardet\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:20,745 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\chardet\\__pycache__\\compat.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:20,746 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\chardet\\__pycache__\\universaldetector.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:20,747 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\chardet\\__pycache__\\charsetgroupprober.cpython-39.pyc', reloading
+[ 2023-03-24 10:54:20,748 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\chardet\\__pycache__\\enums.cpython-39.pyc', reloading

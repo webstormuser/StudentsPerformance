@@ -1,0 +1,18 @@
+[ 2023-03-24 13:11:51,595 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 13:11:51,619 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 13:11:51,695 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 13:12:04,562 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 13:12:04,626 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 13:12:04,676 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 13:12:04,686 ] 24 root - INFO - Model is trying to predict for given input data
+[ 2023-03-24 13:12:04,697 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 13:12:04] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+[ 2023-03-24 13:12:26,121 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 13:12:26,122 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 13:12:26,124 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 13:12:26,134 ] 24 root - INFO - Model is trying to predict for given input data
+[ 2023-03-24 13:12:26,135 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 13:12:26] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+[ 2023-03-24 13:13:47,346 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\app.py', reloading
+[ 2023-03-24 13:13:47,347 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\app.py', reloading
+[ 2023-03-24 13:13:47,348 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\app.py', reloading
+[ 2023-03-24 13:13:47,349 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\app.py', reloading
+[ 2023-03-24 13:13:47,349 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\app.py', reloading

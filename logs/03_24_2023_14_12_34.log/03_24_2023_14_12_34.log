@@ -1,0 +1,70 @@
+[ 2023-03-24 14:12:34,681 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 14:12:34,790 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 14:12:35,112 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 14:12:39,422 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,446 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\string.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,448 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 14:12:39,451 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,455 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_base.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,463 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_bayes.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,466 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_least_angle.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,473 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_coordinate_descent.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,480 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,484 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\__pycache__\\glm.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,486 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,489 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\loss.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,501 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\link.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,524 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\_loss\\__pycache__\\glm_distribution.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,525 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\utils\\__pycache__\\optimize.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,530 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_linear_loss.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,532 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_huber.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,536 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_stochastic_gradient.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,539 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_ridge.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,541 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_sag.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,549 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_logistic.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,560 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\svm\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,560 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\svm\\__pycache__\\_classes.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,563 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\svm\\__pycache__\\_base.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,581 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\svm\\__pycache__\\_bounds.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,582 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_omp.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,584 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_passive_aggressive.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,587 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_perceptron.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,588 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_quantile.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,591 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_ransac.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,592 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 14:12:39,594 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\linear_model\\__pycache__\\_theil_sen.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,612 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\compose\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,616 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\compose\\__pycache__\\_column_transformer.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,619 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\__pycache__\\pipeline.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,621 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\compose\\__pycache__\\_target.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,624 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\impute\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,632 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\impute\\__pycache__\\_base.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,635 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\impute\\__pycache__\\_knn.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,637 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,650 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_distance_metric.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,654 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_graph.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,657 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_base.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,659 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_unsupervised.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,661 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_classification.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,662 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_regression.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,664 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_nearest_centroid.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,665 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_kde.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,667 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_lof.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,669 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\neighbors\\__pycache__\\_nca.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,670 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,672 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_nmf.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,678 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_pca.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,681 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_base.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,683 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\utils\\__pycache__\\_arpack.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,685 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_incremental_pca.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,687 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_kernel_pca.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,688 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_sparse_pca.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,690 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_dict_learning.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,691 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_truncated_svd.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,693 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_fastica.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,695 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_factor_analysis.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,696 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\sklearn\\decomposition\\__pycache__\\_lda.cpython-39.pyc', reloading
+[ 2023-03-24 14:12:39,699 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 14:12:39,711 ] 24 root - INFO - Model is trying to predict for given input data
+[ 2023-03-24 14:12:39,727 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 14:12:39] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+[ 2023-03-24 14:12:39,728 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-39.pyc', reloading

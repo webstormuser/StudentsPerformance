@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Students Exam Performance Form</title>
+	<style>
+		form {
+			margin: 0 auto;
+			width: 400px;
+			padding: 20px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			box-shadow: 0 0 10px #ccc;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			color: #333;
+		}
+		
+		label {
+			display: block;
+			margin-bottom: 10px;
+		}
+		
+		input[type="text"], input[type="number"],input[type="email"], select, textarea {
+			display: block;
+			width: 100%;
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			font-size: 16px;
+			margin-bottom: 20px;
+		}
+		
+		input[type="submit"] {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		
+		input[type="submit"]:hover {
+			background-color: #3e8e41;
+		}
+
+        h1{
+      color:red;
+      text-align:center;
+      font-size:34px;   
+      }
+      h2{
+      color:black;
+      text-align:center;
+      font-size:28px
+      }
+	</style>
+</head>
+<body >
+  <h1>Students Exam Performance Prediction </h1>
+	<form action="{{url_for('predict_datapoints')}}" method="POST">
+				
+		<label for="gender">GENDER:</label>
+			<select id="gender" name="gender" required>
+          		<option value="female">FEMALE</option>
+          		<option value="male">MALE</option>
+          	</select>
+
+		<label for="race_ethnicity">RACE OR ETHNICITY :</label>
+			<select id="race_ethnicity" name="race_ethnicity" required>
+				<option value="" selected disabled> Select Race/Ethnicity from Below </option>
+				<option value="group A">A</option>
+				<option value="group B">B</option>
+				<option value="group C">C</option>
+          		<option value="group D">D</option>	
+          		<option value="group E">E</option>	
+  			</select>		
+		<label for="parental_level_of_education"> Parental_level_of_education:</label>
+			<select id="parental_level_of_education" name="parental_level_of_education" required>
+				<option value="associate's degree">
+                    associate's degree
+					<option value="bachelor's degree">
+						bachelor's degree
+					</option>
+					<option value="high school">
+						high school
+					</option>
+					<option value="master's degree">
+						master's degree
+					</option>
+					<option value="some college">
+						some college
+					</option>
+					<option value="some high school">
+						some high school
+					</option>
+  	 		</select>
+                              
+		<label for="lunch"> LUNCH_TYPE:</label>
+			<select id="lunch" name="lunch" required>
+				<option value="free/reduced">
+                    free/reduced
+                </option>
+                <option value="standard">
+                    standard
+                </option>
+  			</select>
+
+		<label for="test_preparation_course"> Test_Preparation_Couse</label>
+			<select id="test_preparation_course" name="test_preparation_course" required>
+				<option value="none">
+                    None
+                </option>
+                <option value="completed">
+                    Completed
+                </option>
+			</select>
+
+		<label for="writing_score"> Writing Score Out of 100 :</label>   
+			<input type="number" id="writing_score" name="writing_score" min=1 max=100 required >
+
+		<label for="reading_score"> Reading Score Out of 100 :</label>   
+			<input type="number" id="reading_score" name="reading_score" min=1 max=100 required >
+
+		<input type="submit" value="Submit">
+		<h2>
+			The Prediction is {{result}}
+		</h2>
+</form>
+</body>
+</html>

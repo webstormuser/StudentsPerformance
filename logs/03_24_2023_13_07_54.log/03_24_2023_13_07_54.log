@@ -1,0 +1,11 @@
+[ 2023-03-24 13:07:55,064 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 13:07:55,122 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 13:07:55,307 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 13:08:30,385 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 13:08:30] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 13:08:47,743 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-24 13:08:48,016 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-24 13:08:48,267 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-24 13:08:48,279 ] 24 root - INFO - Model is trying to predict for given input data
+[ 2023-03-24 13:08:48,308 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 13:08:48] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+[ 2023-03-24 13:11:21,230 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\exception.py', reloading
+[ 2023-03-24 13:11:21,231 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\exception.py', reloading

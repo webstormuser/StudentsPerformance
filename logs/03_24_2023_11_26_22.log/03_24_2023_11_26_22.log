@@ -1,0 +1,15 @@
+[ 2023-03-24 11:26:23,131 ] 157 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-03-24 11:26:29,720 ] 25 root - INFO - Entered the data ingestion method or component
+[ 2023-03-24 11:26:29,732 ] 28 root - INFO - Read the dataset as dataframe
+[ 2023-03-24 11:26:29,741 ] 34 root - INFO - Train test split initiated
+[ 2023-03-24 11:26:29,760 ] 41 root - INFO - Inmgestion of the data iss completed
+[ 2023-03-24 11:26:29,772 ] 82 root - INFO - Read train and test data completed
+[ 2023-03-24 11:26:29,772 ] 84 root - INFO - Obtaining preprocessing object
+[ 2023-03-24 11:26:29,773 ] 58 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2023-03-24 11:26:29,774 ] 59 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2023-03-24 11:26:29,779 ] 97 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2023-03-24 11:26:29,825 ] 109 root - INFO - Saved preprocessing object.
+[ 2023-03-24 11:26:29,837 ] 33 root - INFO - Split training and test input data
+[ 2023-03-24 11:29:22,962 ] 107 root - INFO - Best found model on both training and testing dataset
+[ 2023-03-24 11:29:22,962 ] 109 root - INFO - best model is RidgeRegression
+[ 2023-03-24 11:29:22,962 ] 110 root - INFO - best models score is 0.8805671790733922

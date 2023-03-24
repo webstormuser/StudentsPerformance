@@ -1,0 +1,8 @@
+[ 2023-03-24 10:13:07,515 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:13:07,537 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:13:07,611 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:13:08,208 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:13:08] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:13:08,258 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:13:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-03-24 10:14:20,389 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:14:20] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-24 10:14:49,770 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-39.pyc', reloading
+[ 2023-03-24 10:14:49,788 ] 113 werkzeug - INFO - 127.0.0.1 - - [24/Mar/2023 10:14:49] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -

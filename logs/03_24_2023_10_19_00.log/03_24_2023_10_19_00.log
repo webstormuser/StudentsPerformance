@@ -1,0 +1,7 @@
+[ 2023-03-24 10:19:00,424 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-24 10:19:00,443 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-24 10:19:00,505 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-24 10:22:03,516 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\setup.py', reloading
+[ 2023-03-24 10:22:03,517 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\setup.py', reloading
+[ 2023-03-24 10:22:03,616 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance\\src\\components\\data_ingestion.py', reloading
+[ 2023-03-24 10:22:03,617 ] 113 werkzeug - INFO -  * Detected change in 'f:\\New folder\\Students_Performance\\src\\components\\data_ingestion.py', reloading
