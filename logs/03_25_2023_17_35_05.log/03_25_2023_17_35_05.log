@@ -1,0 +1,31 @@
+[ 2023-03-25 17:35:05,133 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-25 17:35:05,152 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-25 17:35:05,211 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-25 17:41:49,347 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,348 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\codecs.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,351 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\aliases.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,352 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\utf_8.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,353 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\cp1252.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,356 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\latin_1.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,358 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\io.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,359 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\abc.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,362 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\site.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,363 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\os.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,365 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\stat.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,366 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\_collections_abc.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,369 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\ntpath.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,370 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\genericpath.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,373 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\_sitebuiltins.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,378 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\_bootlocale.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,385 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\types.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,387 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\importlib\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,388 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\warnings.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,391 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\importlib\\__pycache__\\util.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,391 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\importlib\\__pycache__\\abc.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,392 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\importlib\\__pycache__\\machinery.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,393 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\typing.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,395 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\collections\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,397 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\heapq.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,399 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\keyword.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,401 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\operator.cpython-39.pyc', reloading
+[ 2023-03-25 17:41:49,403 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\reprlib.cpython-39.pyc', reloading

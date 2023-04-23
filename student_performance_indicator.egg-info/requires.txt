@@ -1,4 +1,4 @@
-pandas 
+pandas
 numpy
 seaborn
 matplotlib
@@ -7,5 +7,3 @@ catboost
 xgboost
 dill
 Flask
-docker
--e .

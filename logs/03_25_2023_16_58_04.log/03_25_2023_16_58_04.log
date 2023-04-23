@@ -1,0 +1,16 @@
+[ 2023-03-25 16:58:04,193 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-25 16:58:04,211 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-25 16:58:04,271 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-25 16:58:09,516 ] 15 root - INFO - loading model from model.pkl 
+[ 2023-03-25 16:58:09,588 ] 18 root - INFO -  loading preprocessor from preprocessor.pkl
+[ 2023-03-25 16:58:09,639 ] 21 root - INFO - Fearure scaling is done
+[ 2023-03-25 16:58:09,648 ] 24 root - INFO - Model is trying to predict for given input data
+[ 2023-03-25 16:58:09,660 ] 113 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2023 16:58:09] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+[ 2023-03-25 17:27:30,207 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance - Copy\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-25 17:27:30,207 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance - copy\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-03-25 17:27:30,311 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance - Copy\\src\\exception.py', reloading
+[ 2023-03-25 17:27:30,311 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance - copy\\src\\exception.py', reloading
+[ 2023-03-25 17:27:30,321 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\Students_Performance - Copy\\src\\logger.py', reloading
+[ 2023-03-25 17:27:30,321 ] 113 werkzeug - INFO -  * Detected change in 'f:\\new folder\\students_performance - copy\\src\\logger.py', reloading
+[ 2023-03-25 17:27:30,325 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\logging\\__init__.py', reloading
+[ 2023-03-25 17:27:30,935 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\typing.py', reloading

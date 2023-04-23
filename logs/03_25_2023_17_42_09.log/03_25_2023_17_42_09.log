@@ -1,0 +1,15 @@
+[ 2023-03-25 17:42:10,046 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-25 17:42:10,066 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-25 17:42:10,135 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-25 17:42:21,412 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Scripts\\conda-script.py', reloading
+[ 2023-03-25 17:42:21,417 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,428 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,430 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,431 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,434 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\tempfile.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,459 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\random.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,460 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\bisect.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,485 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\textwrap.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,523 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\inspect.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,531 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\dis.cpython-39.pyc', reloading
+[ 2023-03-25 17:42:21,532 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\__pycache__\\opcode.cpython-39.pyc', reloading

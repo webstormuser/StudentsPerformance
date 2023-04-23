@@ -1,0 +1,5 @@
+[ 2023-03-25 16:54:56,239 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-25 16:54:56,259 ] 113 werkzeug - INFO -  * Debugger PIN: 137-623-873
+[ 2023-03-25 16:54:56,347 ] 113 werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[ 2023-03-25 16:57:41,928 ] 113 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2023 16:57:41] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2023-03-25 16:57:41,929 ] 113 werkzeug - INFO -  * Detected change in 'F:\\New folder\\anaconda\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-39.pyc', reloading
